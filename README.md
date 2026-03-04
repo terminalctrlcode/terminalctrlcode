@@ -1,16 +1,24 @@
-## Hi there 👋
+Readme · MD
+# Hi, I'm @terminalctrlcode 👋
 
-<!--
-**terminalctrlcode/terminalctrlcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer passionate about building cool things and solving problems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Languages: Python, JavaScript, Bash
+- 🛠️ Tools: Git, Docker, Linux
+- ☁️ Platforms: GitHub, AWS
+
+## 📌 What I'm Working On
+
+- 🔭 Currently working on some exciting personal projects
+- 🌱 Always learning and exploring new technologies
+- 👯 Open to collaborating on interesting open-source projects
+
+## 📫 Get in Touch
+
+- GitHub: [@terminalctrlcode](https://github.com/terminalctrlcode)
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."*
